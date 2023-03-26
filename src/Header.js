@@ -11,7 +11,7 @@ const Header = ({ title }) => {
           <li href="#about">Contact</li>
         </ul>
       </nav>
-      <h1>Get ready for {title}!</h1>
+      <h1>Get ready for {title}</h1>
     </div>
   );
 }
